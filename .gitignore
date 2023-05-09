@@ -1,0 +1,13 @@
+# dependencies
+node_modules
+.parcel-cache
+server/node_modules
+client/node_modules
+
+
+
+# IDE
+.vscode
+
+# misc
+npm-debug.log
