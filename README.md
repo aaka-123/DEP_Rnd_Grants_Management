@@ -30,16 +30,16 @@
 <table>
   <tr>
     <td align="center">
-      <img src="./img/Users.png" width="350" height="300">
+      <img src="./img/Users.png" width="370" height="300">
     </td>
       <td align="center">
-      <img src="./img/Addnew.png" width="350" height="300">
+      <img src="./img/Addnew.png" width="370" height="300">
     </td>
   </tr>
 
   <tr>
      <td align="center">
-      Users Page
+      User Page
     </td>
      <td align="center">
       Add New Grant
@@ -50,15 +50,15 @@
 <table>
   <tr>
     <td align="center">
-      <img src="./img/specific grant.png" width="350" height="300">
+      <img src="./img/specific grant.png" width="370" height="300">
     </td>
     <td align="center">
-      <img src="./img/bud_tbl.png" width="350" height="300">
+      <img src="./img/bud_tbl.png" width="370" height="300">
     </td>
   </tr>
   <tr>
      <td align="center">
-      Particular Grant
+      Particular Grant's Page
     </td>
     <td align="center">
       Budget Table
