@@ -1,6 +1,5 @@
 # RnD Grants Management Portal
-
-
+A web-based application that offers a convenient way to manage the resources and costs associated with project grants.
 
 ## Web Portal
 
