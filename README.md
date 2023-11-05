@@ -1,3 +1,59 @@
+# RnD Grants Management Portal
+
+
+
+## Web Portal
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="./img/Home.png" width="200">
+    </td>
+    <td align="center">
+      <img src="./img/Grant Page.png" width="200">
+    </td>
+    <td align="center">
+      <img src="./img/Users.png" width="200">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      Home Page
+    </td>
+    <td align="center">
+      Grant Page
+    </td>
+    <td align="center">
+      Users Page
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td align="center">
+      <img src="./img/Addnew.png" width="200">
+    </td>
+    <td align="center">
+      <img src="./img/specific grant.png" width="200">
+    </td>
+    <td align="center">
+      <img src="./img/bud_tbl.png" width="200">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      Add New Grant
+    </td>
+    <td align="center">
+      Particular Grant
+    </td>
+    <td align="center">
+      Budget Table
+    </td>
+  </tr>
+</table>
+
+
 # Instructions to run
 
 This website is built using NodeJS v16.13.2 and npm v8.1.2. These specific versions should be installed.
