@@ -12,10 +12,9 @@
     <td align="center">
       <img src="./img/Grant Page.png" width="300">
     </td>
-    <td align="center">
-      <img src="./img/Users.png" width="300">
-    </td>
+   
   </tr>
+
   <tr>
     <td align="center">
       Home Page
@@ -23,16 +22,33 @@
     <td align="center">
       Grant Page
     </td>
-    <td align="center">
-      Users Page
-    </td>
+    
   </tr>
+  
 </table>
+
 <table>
   <tr>
     <td align="center">
+      <img src="./img/Users.png" width="300">
+    </td>
+      <td align="center">
       <img src="./img/Addnew.png" width="300">
     </td>
+  </tr>
+
+  <tr>
+     <td align="center">
+      Users Page
+    </td>
+     <td align="center">
+      Add New Grant
+    </td>
+  </tr>
+  
+</table>
+<table>
+  <tr>
     <td align="center">
       <img src="./img/specific grant.png" width="300">
     </td>
@@ -41,10 +57,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center">
-      Add New Grant
-    </td>
-    <td align="center">
+     <td align="center">
       Particular Grant
     </td>
     <td align="center">
