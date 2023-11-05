@@ -7,10 +7,10 @@
 <table>
   <tr>
     <td align="center">
-      <img src="./img/Home.png" width="350" height="300">
+      <img src="./img/Home.png" width="370" height="300">
     </td>
     <td align="center">
-      <img src="./img/Grant Page.png" width="350" height="300">
+      <img src="./img/Grant Page.png" width="370" height="300">
     </td>
    
   </tr>
