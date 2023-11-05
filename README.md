@@ -10,7 +10,7 @@
       <img src="./img/Home.png" width="300" height="300">
     </td>
     <td align="center">
-      <img src="./img/Grant Page.png" width="300">
+      <img src="./img/Grant Page.png" width="300" height="300">
     </td>
    
   </tr>
@@ -30,10 +30,10 @@
 <table>
   <tr>
     <td align="center">
-      <img src="./img/Users.png" width="300">
+      <img src="./img/Users.png" width="300" height="300">
     </td>
       <td align="center">
-      <img src="./img/Addnew.png" width="300">
+      <img src="./img/Addnew.png" width="300" height="300">
     </td>
   </tr>
 
@@ -50,10 +50,10 @@
 <table>
   <tr>
     <td align="center">
-      <img src="./img/specific grant.png" width="300">
+      <img src="./img/specific grant.png" width="300" height="300">
     </td>
     <td align="center">
-      <img src="./img/bud_tbl.png" width="300">
+      <img src="./img/bud_tbl.png" width="300" height="300">
     </td>
   </tr>
   <tr>
